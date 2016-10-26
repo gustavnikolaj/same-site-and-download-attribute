@@ -1,3 +1,7 @@
+Report: https://bugs.chromium.org/p/chromium/issues/detail?id=659554
+
+----
+
 When using Same-Site Lax or Strict on a cookie, it will not be passed when
 following an `<a>`-tag with a `download` attribute.
 
